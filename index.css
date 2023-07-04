@@ -1,0 +1,76 @@
+/* Write your code here. */
+.notifications-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notifications-heading {
+  font-family: "Roboto";
+  font-size: 42px;
+  color: #0f172a;
+}
+.sub-container1 {
+  background-color: #0b69ff;
+  border-radius: 5px;
+  border: 0px solid #ffffff;
+  height: 100px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.img {
+  height: 30px;
+  width: 30px;
+}
+.desc {
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #ffffff;
+  padding: 10px;
+}
+.sub-container2 {
+  background-color: #2dca73;
+  border-radius: 5px;
+  border: 0px solid #ffffff;
+  height: 100px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.sub-container3 {
+  background-color: #ffb800;
+  border-radius: 5px;
+  border: 0px solid #ffffff;
+  height: 100px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.sub-container4 {
+  background-color: #ff0b37;
+  border-radius: 5px;
+  border: 0px solid #ffffff;
+  height: 100px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
